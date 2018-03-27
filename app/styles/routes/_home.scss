@@ -1,0 +1,84 @@
+.left-drawer {
+  width: 30%;
+  min-width: 424px;
+  float: left;
+  .detail {
+    .info {
+      width: 70%;
+      float: left;
+      .name {
+      }
+      .tag {
+        color: grey;
+      }
+    }
+    .photo {
+      width: 20%;
+      float: left;
+    }
+    .close-icon {
+      width: 5%;
+      float: right;
+      cursor: pointer;
+    }
+  }
+  .description {
+    clear: both;
+    padding-top: 30px;
+  }
+}
+.left-drawer > div {
+  margin-top: 64px;
+  width: 30%;
+  min-width: 424px;
+  padding: 20px 20px 20px 20px;
+  background: white;
+  opacity: 0.9;
+  z-index: 9999;
+  -webkit-box-shadow: 6px 7px 22px -5px rgba(0,0,0,0.75);
+  -moz-box-shadow: 6px 7px 22px -5px rgba(0,0,0,0.75);
+  box-shadow: 6px 7px 22px -5px rgba(0,0,0,0.75);
+}
+.right-panel {
+  height: calc(100vh - 64px);
+  float: right;
+}
+.graph {
+  height: calc(100vh - 64px);
+}
+.zoom-control {
+  position: fixed;
+  top : 70px;
+  right: 10px;
+  display: flex;
+  flex-direction: column;
+  z-index: 99999;
+  background-color: white;
+  -webkit-box-shadow: -6px 8px 14px -2px rgba(0,0,0,0.75);
+  -moz-box-shadow: -6px 8px 14px -2px rgba(0,0,0,0.75);
+  box-shadow: -6px 8px 14px -2px rgba(0,0,0,0.75);
+  padding: 5px 5px 5px 5px;
+  .tooltip {
+      position: relative;
+      display: inline-block;
+      cursor: pointer;
+      .tooltiptext {
+          visibility: hidden;
+          width: 60px;
+          background-color: black;
+          color: #fff;
+          text-align: center;
+          border-radius: 6px;
+          padding: 5px 0;
+  
+          /* Position the tooltip */
+          position: absolute;
+          z-index: 1;
+          right: 30px;
+          font-size: 0.5em;
+      }
+      &:hover .tooltiptext {
+          visibility: visible;
+      }
+  }
+}

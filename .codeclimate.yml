@@ -1,0 +1,32 @@
+---
+engines:
+  eslint:
+    enabled: true
+    channel: "eslint-4"
+    config:
+      extensions:
+        - .js
+        - .jsx
+    checks:
+      import/no-duplicates:
+        enabled: false
+      import/no-extraneous-dependencies:
+        enabled: false
+      import/no-named-as-default-member:
+        enabled: false
+      import/no-unresolved:
+        enabled: false
+      import/extensions:
+        enabled: false
+  stylelint:
+    enabled: true
+ratings:
+  paths:
+  - "**.js"
+  - "**.jsx"
+  - "**.scss"
+exclude_paths:
+  - coverage/**/*
+  - dist/**/*
+  - documentation/**/*
+  - node_modules/**/*

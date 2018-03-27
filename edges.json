@@ -1,0 +1,594 @@
+[
+    {
+        "from": 1,
+        "to": 2,
+        "type": "project",
+        "description": "The EIHS in presumably the same organization as the INSTITUT EUROPÉEN DES SCIENCES HUMAINES (IESH), an educational and imam training facility in France associated with the FEDERATION\n OF ISLAMIC ORGANIZATIONS IN EUROPE (FIOE) and its French member the UNION DES ORGANISATIONS ISLAMIQUES DE FRANCE (UOIF), both organizations representing THE MUSLIM BROTHERHOOD in Europe.",
+        "reference": 4
+    },
+    {
+        "from": 2,
+        "to": 3,
+        "type": "associated-with-the",
+        "description": "The EIHS in presumably the same organization as the INSTITUT EUROPÉEN DES SCIENCES HUMAINES (IESH), an educational and imam training facility in France associated with the FEDERATION\n OF ISLAMIC ORGANIZATIONS IN EUROPE (FIOE) and its French member the UNION DES ORGANISATIONS ISLAMIQUES DE FRANCE (UOIF), both organizations representing THE MUSLIM BROTHERHOOD in Europe.",
+        "reference": 4
+    },
+    {
+        "from": 2,
+        "to": 4,
+        "type": "associated-with-the",
+        "description": "The EIHS in presumably the same organization as the INSTITUT EUROPÉEN DES SCIENCES HUMAINES (IESH), an educational and imam training facility in France associated with the FEDERATION\n OF ISLAMIC ORGANIZATIONS IN EUROPE (FIOE) and its French member the UNION DES ORGANISATIONS ISLAMIQUES DE FRANCE (UOIF), both organizations representing THE MUSLIM BROTHERHOOD in Europe.",
+        "reference": 4
+    },
+    {
+        "from": 3,
+        "to": 5,
+        "type": "representing",
+        "description": "The EIHS in presumably the same organization as the INSTITUT EUROPÉEN DES SCIENCES HUMAINES (IESH), an educational and imam training facility in France associated with the FEDERATION\n OF ISLAMIC ORGANIZATIONS IN EUROPE (FIOE) and its French member the UNION DES ORGANISATIONS ISLAMIQUES DE FRANCE (UOIF), both organizations representing THE MUSLIM BROTHERHOOD in Europe.",
+        "reference": 4
+    },
+    {
+        "from": 4,
+        "to": 5,
+        "type": "representing",
+        "description": "The EIHS in presumably the same organization as the INSTITUT EUROPÉEN DES SCIENCES HUMAINES (IESH), an educational and imam training facility in France associated with the FEDERATION\n OF ISLAMIC ORGANIZATIONS IN EUROPE (FIOE) and its French member the UNION DES ORGANISATIONS ISLAMIQUES DE FRANCE (UOIF), both organizations representing THE MUSLIM BROTHERHOOD in Europe.",
+        "reference": 4
+    },
+    {
+        "from": 1,
+        "to": 6,
+        "type": "build-large-Islamic-facilities-in-European-cities",
+        "description": "This Sheffield, UK mosque complex, near completion or already completed, is the latest in a series of attempts by\n the EUROPE TRUST to covertly build large Islamic facilities in European cities controlled by the MUSLIM BROTHERHOOD.",
+        "reference": 4
+    },
+    {
+        "from": 6,
+        "to": 5,
+        "type": "controlled-by",
+        "description": "This Sheffield, UK mosque complex, near completion or already completed, is the latest in a series of attempts by\n the EUROPE TRUST to covertly build large Islamic facilities in European cities controlled by the MUSLIM BROTHERHOOD.",
+        "reference": 4
+    },
+    {
+        "from": 1,
+        "to": 7,
+        "type": "Project",
+        "description": "controlled by the MUSLIM BROTHERHOOD. e EMAAN TRUST She eld project appears to be focused on providing facilities for the Yemeni MUSLIM BROTHERHOOD in the UK and centers on UK converts to Islam. Many of the EMAAN TRUST o cers have problematic ties to the MUSLIM BROTHERHOOD, Islamism, and/or terrorism.",
+        "reference": 4
+    },
+    {
+        "from": 7,
+        "to": 10,
+        "type": "providing-facilities-for",
+        "description": "controlled by the MUSLIM BROTHERHOOD. e EMAAN TRUST She eld project appears to be focused on providing facilities for the Yemeni MUSLIM BROTHERHOOD in the UK and centers on UK converts to Islam. Many of the EMAAN TRUST o cers have problematic ties to the MUSLIM BROTHERHOOD, Islamism, and/or terrorism.",
+        "reference": 4
+    },
+    {
+        "from": 11,
+        "to": 8,
+        "type": "signed-on-behalf-of",
+        "description": "The project had its origins in a July 2006 application to the local planning department for the BOTHAM STREET MOSQUE AND ISLAMIC CENTRE, signed on behalf of CATALYST REGENERATION by AKRAM BONHAM (MCIAT), head of the Building Design Department.",
+        "reference": 7
+    },
+    {
+        "from": 7,
+        "to": 16,
+        "type": "company",
+        "description": "The agent listed for the incorporation was OMER AL-HAMDOON, likely the current President of the MUSLIM ASSOCIATION OF BRITAIN (MAB) and using the address of the MUSLIM WELFARE HOUSE OF SHEFFIELD.",
+        "reference": 7
+    },
+    {
+        "from": 14,
+        "to": 16,
+        "type": "agent-listed-for-incorporation",
+        "description": "HAMEED AL-ASALY, pro led below, of the Birmingham-based CATALYST REGENERATION (UK) LTD was described as managing the project which was reportedly to be funded by She eld Muslims, including former World boxing champion NASEEM HAMED. No further activity on the project appears\n to have taken place until September 2010 when a new planning department les was created with the applicant as HAMEED AL-ASALY who listed the AL-EMAAN TRUST as the company. Substantial work on the project began during the summer of 2013 and there were local rumors that £2 million had “disappeared” from the project, forcing the delay. Work was expected to have been completed in June 2016.",
+        "reference": 7
+    },
+    {
+        "from": 17,
+        "to": 7,
+        "type": "agent-listed-for-incorporation",
+        "description": "EMAAN TRUST OF SHEFFIELD was incorporated in January 2009 and a charity with the name THE EMAAN TRUST was registered with the UK Charity Commission in September 2009. e agent listed for the incorporation was OMER AL-HAMDOON, likely the current President of the MUSLIM ASSOCIATION OF BRITAIN (MAB) and using the address of the MUSLIM WELFARE HOUSE OF SHEFFIELD.",
+        "reference": 7
+    },
+    {
+        "from": 17,
+        "to": 18,
+        "type": "president",
+        "description": "e agent listed for the incorporation was OMER AL-HAMDOON, likely the current President of the MUSLIM ASSOCIATION OF BRITAIN (MAB) and using the address of the MUSLIM WELFARE HOUSE OF SHEFFIELD. ree initial o cers of the company were listed, all pro led below:",
+        "reference": 7
+    },
+    {
+        "from": 18,
+        "to": 19,
+        "type": "using-same-address",
+        "description": "The agent listed for the incorporation was OMER AL-HAMDOON, likely the current President of the MUSLIM ASSOCIATION OF BRITAIN (MAB) and using the address of the MUSLIM WELFARE HOUSE OF SHEFFIELD. ree initial o cers of the company were listed, all pro led below:",
+        "reference": 7
+    },
+    {
+        "from": 7,
+        "to": 20,
+        "type": "secretary",
+        "description": "Three initial officers of the company were listed, all pro led below:\n Qatar Charity UK\n ◆SALEH ALI ALNOUD (Secretary)◆AIMAN MOHAMMED EBRAHIM SAEED (Director)◆SALEH MOHAMED HUSSEIN (Director)",
+        "reference": 7
+    },
+    {
+        "from": 7,
+        "to": 21,
+        "type": "director",
+        "description": "Three initial officers of the company were listed, all pro led below:\n Qatar Charity UK\n ◆SALEH ALI ALNOUD (Secretary)◆AIMAN MOHAMMED EBRAHIM SAEED (Director)◆SALEH MOHAMED HUSSEIN (Director)",
+        "reference": 7
+    },
+    {
+        "from": 7,
+        "to": 22,
+        "type": "director",
+        "description": "Three initial officers of the company were listed, all pro led below:\n Qatar Charity UK\n ◆SALEH ALI ALNOUD (Secretary)◆AIMAN MOHAMMED EBRAHIM SAEED (Director)◆SALEH MOHAMED HUSSEIN (Director)",
+        "reference": 7
+    },
+    {
+        "from": 22,
+        "to": 23,
+        "type": "secretary",
+        "description": "Three initial officers of the company were listed, all pro led below:\n Qatar Charity UK\n ◆SALEH ALI ALNOUD (Secretary)◆AIMAN MOHAMMED EBRAHIM SAEED (Director)◆SALEH MOHAMED HUSSEIN (Director)",
+        "reference": 7
+    },
+    {
+        "from": 20,
+        "to": 22,
+        "type": "secretary",
+        "description": "Three initial officers of the company were listed, all pro led below:\n Qatar Charity UK\n ◆SALEH ALI ALNOUD (Secretary)◆AIMAN MOHAMMED EBRAHIM SAEED (Director)◆SALEH MOHAMED HUSSEIN (Director)",
+        "reference": 7
+    },
+    {
+        "from": 20,
+        "to": 21,
+        "type": "director",
+        "description": "Three initial officers of the company were listed, all pro led below:\n Qatar Charity UK\n ◆SALEH ALI ALNOUD (Secretary)◆AIMAN MOHAMMED EBRAHIM SAEED (Director)◆SALEH MOHAMED HUSSEIN (Director)",
+        "reference": 7
+    },
+    {
+        "from": 21,
+        "to": 22,
+        "type": "director",
+        "description": "Three initial officers of the company were listed, all pro led below:\n Qatar Charity UK\n ◆SALEH ALI ALNOUD (Secretary)◆AIMAN MOHAMMED EBRAHIM SAEED (Director)◆SALEH MOHAMED HUSSEIN (Director)",
+        "reference": 7
+    },
+    {
+        "from": 7,
+        "to": 24,
+        "type": "trustees",
+        "reference": "http://opencharities.org/charities/1131861"
+    },
+    {
+        "from": 24,
+        "to": 25,
+        "type": "director",
+        "reference": 7
+    },
+    {
+        "from": 24,
+        "to": 26,
+        "type": "officer-in-multiple-companies-tied-to",
+        "description": "ALKATIB is also known to have been an officer in multiple companies tied to the UK MUSLIM BROTHERHOOD.",
+        "reference": 7
+    },
+    {
+        "from": 7,
+        "to": 27,
+        "type": "trustees",
+        "reference": "http://opencharities.org/charities/1131861"
+    },
+    {
+        "from": 7,
+        "to": 28,
+        "type": "trustees",
+        "reference": "http://opencharities.org/charities/1131861"
+    },
+    {
+        "from": 7,
+        "to": 29,
+        "type": "trustees",
+        "reference": "http://opencharities.org/charities/1131861"
+    },
+    {
+        "from": 7,
+        "to": 30,
+        "type": "trustees",
+        "reference": "http://opencharities.org/charities/1131861"
+    },
+    {
+        "from": 7,
+        "to": 31,
+        "type": "trustees",
+        "reference": "http://opencharities.org/charities/1131861"
+    },
+    {
+        "from": 7,
+        "to": 32,
+        "type": "trustees",
+        "reference": "http://opencharities.org/charities/1131861"
+    },
+    {
+        "from": 7,
+        "to": 33,
+        "type": "trustees",
+        "reference": "http://opencharities.org/charities/1131861"
+    },
+    {
+        "from": 7,
+        "to": 34,
+        "type": "trustees",
+        "reference": "http://opencharities.org/charities/1131861"
+    },
+    {
+        "from": 36,
+        "to": 18,
+        "type": "vice-president",
+        "description": "The document also identi es MOKHTAR BADRI as the Project Manager with a Wembley address associated with the MUSLIM ASSOCIATION OF BRITAIN (MAB). In 2008, UK media identi ed MOKHTAR BADRI as the vice-president of the MAB.",
+        "reference": 7
+    },
+    {
+        "from": 37,
+        "to": 7,
+        "type": "funding",
+        "description": "In 2013 contributions were broken down by country as Kuwait £402,763, UK £42,171, UAE £1,485 and Qatar £397,043.",
+        "reference": 8
+    },
+    {
+        "from": 38,
+        "to": 7,
+        "type": "funding",
+        "description": "In 2013 contributions were broken down by country as Kuwait £402,763, UK £42,171, UAE £1,485 and Qatar £397,043.",
+        "reference": 8
+    },
+    {
+        "from": 39,
+        "to": 7,
+        "type": "funding",
+        "description": "In 2013 contributions were broken down by country as Kuwait £402,763, UK £42,171, UAE £1,485 and Qatar £397,043.",
+        "reference": 8
+    },
+    {
+        "from": 40,
+        "to": 7,
+        "type": "funding",
+        "description": "In 2013 contributions were broken down by country as Kuwait £402,763, UK £42,171, UAE £1,485 and Qatar £397,043.",
+        "reference": 8
+    },
+    {
+        "from": 41,
+        "to": 7,
+        "type": "funding",
+        "description": "In 2014 it was reported that the Ministry of Awqaf in Kuwait donated £85,753 to the Emaan School and to Administration costs.’",
+        "reference": 8
+    },
+    {
+        "from": 14,
+        "to": 7,
+        "type": "registration-address",
+        "description": "HAMEED AL-ASALY is a 51-year-old British national who listed correspondence address in She eld that is social housing and that is also used as the registered address for the EMAAN TRUST",
+        "reference": 8
+    },
+    {
+        "from": 14,
+        "to": 42,
+        "type": "married",
+        "description": "He was married to TRACY A ALASALY, in Sheffield in October 1997.",
+        "reference": 8
+    },
+    {
+        "from": 14,
+        "to": 43,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 14,
+        "to": 44,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 14,
+        "to": 45,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 14,
+        "to": 46,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 14,
+        "to": 47,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 14,
+        "to": 18,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 43,
+        "to": 48,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 44,
+        "to": 48,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 45,
+        "to": 48,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 46,
+        "to": 48,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 47,
+        "to": 48,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 18,
+        "to": 48,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 44,
+        "to": 49,
+        "type": "connection",
+        "description": "HAMEED AL-ASALY is also known to be or have been a liated with the following six organizations, all tied to the Global MUSLIM BROTHERHOOD and/or Hamas:\n ◆HUMAN APPEAL INTERNATIONAL (HAI).◆MUSLIMAAT SHEFFIELD ASSOCIATION OF MUSLIM WOMEN AND GIRLS, associated with the FATIMA COMMUNITY CENTRE, likely tied to the Muslim Association of Britain (MAB).◆NATIVE EUROPEAN MUSLIM ASSOCIATION (NEMA), an organization centered on new Islamic converts and discussed later in this report.◆MUATH TRUST.◆MUSLIM ASSOCIATION OF BRITAIN (MAB).◆MUSLIM STUDENTS SOCIETY UK & EIRE (MSSUK)",
+        "reference": 8
+    },
+    {
+        "from": 42,
+        "to": 50,
+        "type": "director",
+        "description": "TRACY AL-ASALY was also the sole director of a now-dissolved sports company known as SUNNA SPORTS LTD.",
+        "reference": 8
+    },
+    {
+        "from": 42,
+        "to": 7,
+        "type": "facebook",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 42,
+        "to": 51,
+        "type": "facebook",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 42,
+        "to": 52,
+        "type": "facebook",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 42,
+        "to": 53,
+        "type": "facebook",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 42,
+        "to": 54,
+        "type": "facebook",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 42,
+        "to": 55,
+        "type": "facebook",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 42,
+        "to": 56,
+        "type": "facebook",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 53,
+        "to": 55,
+        "type": "connection",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 53,
+        "to": 19,
+        "type": "connection",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 53,
+        "to": 3,
+        "type": "connection",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 53,
+        "to": 45,
+        "type": "connection",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 54,
+        "to": 46,
+        "type": "connection",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 54,
+        "to": 56,
+        "type": "connection",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 54,
+        "to": 57,
+        "type": "connection",
+        "description": "A number of EMAAN TRUST officers are listed as her Facebook friends as well as other individuals of interest including:\n ◆ANAS ALTIKRITI◆MAB BIRMINGHAM◆HANY ELDEEB (Muslim Welfare House, FIOE, NEMA, Egyptian Muslim Brotherhood)◆ADNAN SAIF (BRITISH MUSLIM HERITAGE CENTRE, MUATH TRUST, ISLAMIC RELIEF)",
+        "reference": 8
+    },
+    {
+        "from": 58,
+        "to": 59,
+        "type": "director",
+        "description": "From 1996 through 2008, it\n ways he was the Managing Director for BARB SERVICES LTD. UK and architectural consulting rm in Birmingham that from October 2005 until July 2006 used an address associated with at least four other companies and/or charities tied to the UK MUSLIM BROTHERHOOD:EUROPE TRUST TISEER TRUST RIGHTSTART FOUNDATION ASSOCIATION OF MUSLIM SCHOOLS UK",
+        "reference": 8
+    },
+    {
+        "from": 59,
+        "to": 60,
+        "type": "using-same-address",
+        "description": "From 1996 through 2008, it\n ways he was the Managing Director for BARB SERVICES LTD. UK and architectural consulting rm in Birmingham that from October 2005 until July 2006 used an address associated with at least four other companies and/or charities tied to the UK MUSLIM BROTHERHOOD:EUROPE TRUST TISEER TRUST RIGHTSTART FOUNDATION ASSOCIATION OF MUSLIM SCHOOLS UK",
+        "reference": 8
+    },
+    {
+        "from": 59,
+        "to": 61,
+        "type": "using-same-address",
+        "description": "From 1996 through 2008, it\n ways he was the Managing Director for BARB SERVICES LTD. UK and architectural consulting rm in Birmingham that from October 2005 until July 2006 used an address associated with at least four other companies and/or charities tied to the UK MUSLIM BROTHERHOOD:EUROPE TRUST TISEER TRUST RIGHTSTART FOUNDATION ASSOCIATION OF MUSLIM SCHOOLS UK",
+        "reference": 8
+    },
+    {
+        "from": 59,
+        "to": 62,
+        "type": "using-same-address",
+        "description": "From 1996 through 2008, it\n ways he was the Managing Director for BARB SERVICES LTD. UK and architectural consulting rm in Birmingham that from October 2005 until July 2006 used an address associated with at least four other companies and/or charities tied to the UK MUSLIM BROTHERHOOD:EUROPE TRUST TISEER TRUST RIGHTSTART FOUNDATION ASSOCIATION OF MUSLIM SCHOOLS UK",
+        "reference": 8
+    },
+    {
+        "from": 59,
+        "to": 6,
+        "type": "using-same-address",
+        "description": "From 1996 through 2008, it\n ways he was the Managing Director for BARB SERVICES LTD. UK and architectural consulting rm in Birmingham that from October 2005 until July 2006 used an address associated with at least four other companies and/or charities tied to the UK MUSLIM BROTHERHOOD:EUROPE TRUST TISEER TRUST RIGHTSTART FOUNDATION ASSOCIATION OF MUSLIM SCHOOLS UK",
+        "reference": 8
+    },
+    {
+        "from": 60,
+        "to": 26,
+        "type": "connection",
+        "description": "From 1996 through 2008, it\n ways he was the Managing Director for BARB SERVICES LTD. UK and architectural consulting rm in Birmingham that from October 2005 until July 2006 used an address associated with at least four other companies and/or charities tied to the UK MUSLIM BROTHERHOOD:EUROPE TRUST TISEER TRUST RIGHTSTART FOUNDATION ASSOCIATION OF MUSLIM SCHOOLS UK",
+        "reference": 8
+    },
+    {
+        "from": 61,
+        "to": 26,
+        "type": "connection",
+        "description": "From 1996 through 2008, it\n ways he was the Managing Director for BARB SERVICES LTD. UK and architectural consulting rm in Birmingham that from October 2005 until July 2006 used an address associated with at least four other companies and/or charities tied to the UK MUSLIM BROTHERHOOD:EUROPE TRUST TISEER TRUST RIGHTSTART FOUNDATION ASSOCIATION OF MUSLIM SCHOOLS UK",
+        "reference": 8
+    },
+    {
+        "from": 62,
+        "to": 26,
+        "type": "connection",
+        "description": "From 1996 through 2008, it\n ways he was the Managing Director for BARB SERVICES LTD. UK and architectural consulting rm in Birmingham that from October 2005 until July 2006 used an address associated with at least four other companies and/or charities tied to the UK MUSLIM BROTHERHOOD:EUROPE TRUST TISEER TRUST RIGHTSTART FOUNDATION ASSOCIATION OF MUSLIM SCHOOLS UK",
+        "reference": 8
+    },
+    {
+        "from": 6,
+        "to": 26,
+        "type": "connection",
+        "description": "From 1996 through 2008, it\n ways he was the Managing Director for BARB SERVICES LTD. UK and architectural consulting rm in Birmingham that from October 2005 until July 2006 used an address associated with at least four other companies and/or charities tied to the UK MUSLIM BROTHERHOOD:EUROPE TRUST TISEER TRUST RIGHTSTART FOUNDATION ASSOCIATION OF MUSLIM SCHOOLS UK",
+        "reference": 8
+    },
+    {
+        "from": 58,
+        "to": 63,
+        "type": "director",
+        "description": "BONHAM was employed from 1980 through 1996 as\n a director OF BONHAM REYNOLDS PROJECT MANAGEMENT, a business & management consultancy that also included KEITH WILLIAM REYNOLDS\n ads a director. REYNOLDS is known to have had\n at least 10 UK corporate a liations including as a\n director in 1992 of HAMDI BONHAM REYNOLDS (INTERNATIONAL) LIMITED, an engineering company with one address in Sharjah, UAE.",
+        "reference": 9
+    },
+    {
+        "from": 63,
+        "to": 64,
+        "type": "director",
+        "description": "BONHAM was employed from 1980 through 1996 as\n a director OF BONHAM REYNOLDS PROJECT MANAGEMENT, a business & management consultancy that also included KEITH WILLIAM REYNOLDS\n ads a director. REYNOLDS is known to have had\n at least 10 UK corporate a liations including as a\n director in 1992 of HAMDI BONHAM REYNOLDS (INTERNATIONAL) LIMITED, an engineering company with one address in Sharjah, UAE.",
+        "reference": 9
+    },
+    {
+        "from": 64,
+        "to": 65,
+        "type": "director",
+        "description": "BONHAM was employed from 1980 through 1996 as\n a director OF BONHAM REYNOLDS PROJECT MANAGEMENT, a business & management consultancy that also included KEITH WILLIAM REYNOLDS\n ads a director. REYNOLDS is known to have had\n at least 10 UK corporate a liations including as a\n director in 1992 of HAMDI BONHAM REYNOLDS (INTERNATIONAL) LIMITED, an engineering company with one address in Sharjah, UAE.",
+        "reference": 9
+    },
+    {
+        "from": 11,
+        "to": 8,
+        "type": "signed-on-behalf-of",
+        "description": " The project had its origins in a July 2006 application to the local planning department for the BOTHAM STREET MOSQUE AND ISLAMIC CENTRE, signed on behalf of CATALYST REGENERATION by AKRAM BONHAM (MCIAT), head of the Building Design Department. By January 2007, local media described the project as being built on land “promised to the Yemeni community” and described intense opposition to the proposed 500-worshipper capacity mosque on the part of local residents. HAMEED AL-ASALY, profiled below, of the Birmingham-based CATALYST REGENERATION (UK) LTD was described as managing the project which was reportedly to be funded by She eld Muslims, including former World boxing champion NASEEM HAMED.",
+        "reference": 7
+    },
+    {
+        "from": 8,
+        "to": 9,
+        "type": "signatory ",
+        "description": " The project had its origins in a July 2006 application to the local planning department for the BOTHAM STREET MOSQUE AND ISLAMIC CENTRE, signed on behalf of CATALYST REGENERATION by AKRAM BONHAM (MCIAT), head of the Building Design Department. By January 2007, local media described the project as being built on land “promised to the Yemeni community” and described intense opposition to the proposed 500-worshipper capacity mosque on the part of local residents. HAMEED AL-ASALY, profiled below, of the Birmingham-based CATALYST REGENERATION (UK) LTD was described as managing the project which was reportedly to be funded by She eld Muslims, including former World boxing champion NASEEM HAMED.",
+        "reference": 7
+    },
+    {
+        "from": 8,
+        "to": 14,
+        "type": "project-manager-and-chairman",
+        "description": " The project had its origins in a July 2006 application to the local planning department for the BOTHAM STREET MOSQUE AND ISLAMIC CENTRE, signed on behalf of CATALYST REGENERATION by AKRAM BONHAM (MCIAT), head of the Building Design Department. By January 2007, local media described the project as being built on land “promised to the Yemeni community” and described intense opposition to the proposed 500-worshipper capacity mosque on the part of local residents. HAMEED AL-ASALY, profiled below, of the Birmingham-based CATALYST REGENERATION (UK) LTD was described as managing the project which was reportedly to be funded by She eld Muslims, including former World boxing champion NASEEM HAMED.",
+        "reference": 7
+    },
+    {
+        "from": 15,
+        "to": 8,
+        "type": "funding",
+        "description": " The project had its origins in a July 2006 application to the local planning department for the BOTHAM STREET MOSQUE AND ISLAMIC CENTRE, signed on behalf of CATALYST REGENERATION by AKRAM BONHAM (MCIAT), head of the Building Design Department. By January 2007, local media described the project as being built on land “promised to the Yemeni community” and described intense opposition to the proposed 500-worshipper capacity mosque on the part of local residents. HAMEED AL-ASALY, profiled below, of the Birmingham-based CATALYST REGENERATION (UK) LTD was described as managing the project which was reportedly to be funded by She eld Muslims, including former World boxing champion NASEEM HAMED.",
+        "reference": 7
+    },
+    {
+        "from": 35,
+        "to": 8,
+        "type": "funding",
+        "description": " The project had its origins in a July 2006 application to the local planning department for the BOTHAM STREET MOSQUE AND ISLAMIC CENTRE, signed on behalf of CATALYST REGENERATION by AKRAM BONHAM (MCIAT), head of the Building Design Department. By January 2007, local media described the project as being built on land “promised to the Yemeni community” and described intense opposition to the proposed 500-worshipper capacity mosque on the part of local residents. HAMEED AL-ASALY, profiled below, of the Birmingham-based CATALYST REGENERATION (UK) LTD was described as managing the project which was reportedly to be funded by She eld Muslims, including former World boxing champion NASEEM HAMED.",
+        "reference": 7
+    }
+]

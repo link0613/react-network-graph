@@ -1,0 +1,10 @@
+{
+    "appname" : "Network Explorer",
+    "genericicons" : {
+        "charity" : "https://graph-assets.s3.amazonaws.com/generic/charity.png",
+        "company" : "https://graph-assets.s3.amazonaws.com/generic/company.png",
+        "terror-organization" : "https://graph-assets.s3.amazonaws.com/generic/terrorist-organization.png",
+        "organization" : "https://graph-assets.s3.amazonaws.com/generic/organization.png",
+        "person" : "https://graph-assets.s3.amazonaws.com/generic/person.png"
+    }
+}
